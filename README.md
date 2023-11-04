@@ -4,7 +4,7 @@
 - PROJECT TITLE      : BUILDING A WEBSITE USING CANVA
 - BRAND              : BLOSSOMS EMPORIUM
 - TARGET             : All
-- PROJECT SITE LINK  : 
+- PROJECT SITE LINK  : https://blossomsemporium.my.canva.site/floralworld/
 
 # Team ID
 - ID : NM2023TMID04589
