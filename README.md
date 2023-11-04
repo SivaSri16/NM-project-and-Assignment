@@ -1,14 +1,10 @@
 # Naan-Mudhalvan-DigitalMarketing
 
-<img alt="Flower shop" width="100%" src="https://www.freepik.com/free-photo/assortment-elegant-red-flowers_7401986.htm#query=flower%20shop&position=17&from_view=search&track=ais">
-
 # Our NM project
 - PROJECT TITLE      : BUILDING A WEBSITE USING CANVA
 - BRAND              : BLOSSOMS EMPORIUM
 - TARGET             : All
 - PROJECT SITE LINK  : 
-- PROJECT VIDEO LINK :https://drive.google.com/file/d/10rZESBMI3g0KTyCO2tsprAhP1iEl wmXB/view?usp=drive_link
-
 
 # Team ID
 - ID : NM2023TMID04589
